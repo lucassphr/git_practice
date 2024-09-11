@@ -1,6 +1,6 @@
 # git_practice
 
-This is an example repository to showcase some git commands and functionality.
+This is an example repository to showcase some git commands and functionality. Some changes here.
 
 ## Here are some commands you will use.
 
