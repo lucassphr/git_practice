@@ -2,7 +2,7 @@
 
 This is an example repository to showcase some git commands and functionality.
 
-## Here are some commands you may use.
+## Here are some commands you will use.
 
 ``` git clone <url> ```
 
@@ -12,7 +12,7 @@ This is an example repository to showcase some git commands and functionality.
 
 ``` git add <file name> ```
 
-``` git push ```
+``` git push```
 
 ``` git commit -m "Your descriptive message here" ```
 
